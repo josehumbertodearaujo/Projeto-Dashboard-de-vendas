@@ -1,1 +1,1 @@
-Intruções Dashboard vendas e clientes
+Dashboard de vendas e clientes
